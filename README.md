@@ -9,7 +9,7 @@ Certainly! Here’s the full content ready for your GitHub README file:
 
 
 
-# Django Web Chat App
+# devamigos Web Chat App
 
 A simple and efficient web chat application built using Django, allowing users to create and join chat rooms with both public and private access.
 
